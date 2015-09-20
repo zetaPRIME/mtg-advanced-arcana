@@ -1,0 +1,3 @@
+# mtg-advanced-arcana
+Custom Magic: The Gathering formats for a different way to play
+...
